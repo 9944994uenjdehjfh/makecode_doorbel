@@ -1,14 +1,5 @@
 ## S&D project Martijn Rutten
-> Open this page at [https://9944994uenjdehjfh.github.io/makecode_doorbel/](https://9944994uenjdehjfh.github.io/makecode_doorbel/)
-
-## Use as Extension, this repo is an  project not an extention. To use see "Edit this project"
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/9944994uenjdehjfh/makecode_doorbel** and import
+> Open this page at [[https://9944994uenjdehjfh.github.io/makecode_doorbel/](https://9944994uenjdehjfh.github.io/makecode_doorbel/](https://makecode.microbit.org/#editor))
 
 ## Edit this project
 
