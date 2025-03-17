@@ -1,5 +1,5 @@
 ## S&D project Martijn Rutten
-> Open this page at [[https://9944994uenjdehjfh.github.io/makecode_doorbel/](https://9944994uenjdehjfh.github.io/makecode_doorbel/](https://makecode.microbit.org/#editor))
+> Open this page at [[Makecode]((https://makecode.microbit.org/#editor))]
 
 ## Edit this project
 
